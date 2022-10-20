@@ -28,4 +28,4 @@ Desarrolla una aplicación de cajero automático en Java en la cual se muestre u
 	• Salida 
 	- Diseñar interfaz..
 
-![](https://github.com/DulceSP/T3A5/blob/main/T3A5.png?raw=true)
+![](https://github.com/DulceSP/T3A5/blob/main/73A5-2232.png?raw=true)
